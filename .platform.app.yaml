@@ -1,0 +1,2 @@
+runtime: php
+php_version: "8.2"  # Atau lebih tinggi jika sudah tersedia
